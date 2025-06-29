@@ -63,5 +63,5 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 
 ![SampleOutput](img/image_url_1.gif)
-!(img/image_url_2.gif)
+![SampleOutput](img/image_url_2.gif)
 
