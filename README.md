@@ -26,6 +26,7 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 ## 🔧 Requirements
 
 ### Libraries
+    
     ```bash
     opencv-python==4.7.0.72
     mediapipe==0.9.1.0
@@ -40,7 +41,7 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/driver-monitoring-system.git
+   git clone https://github.com/Affan-04/driver-monitoring-system.git
    cd driver-monitoring-system
 
 
@@ -61,7 +62,9 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 
 
+<p align="center">
+  <img src="img\image_url_1.gif" width="200"/>
+  <img src="img\image_url_2.gif" width="200"/>
+</p>
 
-![SampleOutput](img/image_url_1.gif)
-![SampleOutput](img/image_url_2.gif)
 
