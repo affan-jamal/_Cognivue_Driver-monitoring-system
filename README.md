@@ -26,14 +26,15 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 ## 🔧 Requirements
 
 ### Libraries
-opencv-python==4.7.0.72
-mediapipe==0.9.1.0
-pygame==2.1.2
-numpy==1.23.5
-scipy==1.10.0
-tensorflow==2.11.0  # or use PyTorch if applicable
-dlib==19.24.0
-imutils==0.5.4
+    ```bash
+    opencv-python==4.7.0.72
+    mediapipe==0.9.1.0
+    pygame==2.1.2
+    numpy==1.23.5
+    scipy==1.10.0
+    tensorflow==2.11.0  # or use PyTorch if applicable
+    dlib==19.24.0
+    imutils==0.5.4
 
 ## Installation
 
@@ -56,8 +57,8 @@ imutils==0.5.4
 4. Run the project
     ```bash
     python dms.py --checkpoint models/model_split.h5 --webcam 0
-    
-        
+
+
 
 
 
