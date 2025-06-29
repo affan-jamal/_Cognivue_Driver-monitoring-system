@@ -27,7 +27,6 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 ### Libraries
     
-    ```bash
     opencv-python==4.7.0.72
     mediapipe==0.9.1.0
     pygame==2.1.2
@@ -36,7 +35,6 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
     tensorflow==2.11.0  # or use PyTorch if applicable
     dlib==19.24.0
     imutils==0.5.4
-    ```
 
 ## Installation
 
@@ -66,8 +64,8 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 
 <p align="center">
-  <img src="img\image_url_1.gif" width="200", height="200"/>
-  <img src="img\image_url_2.gif" width="200", height="200"/>
+  <img src="img\image_url_1.gif" width="500", height="400"/>
+  <img src="img\image_url_2.gif" width="500", height="400"/>
 </p>
 
 
