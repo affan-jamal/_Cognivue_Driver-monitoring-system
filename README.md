@@ -36,6 +36,7 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
     tensorflow==2.11.0  # or use PyTorch if applicable
     dlib==19.24.0
     imutils==0.5.4
+    ```
 
 ## Installation
 
@@ -43,28 +44,30 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
    ```bash
    git clone https://github.com/Affan-04/driver-monitoring-system.git
    cd driver-monitoring-system
-
+   ```
 
 2. Install the dependencies using:
 
     ```bash
     pip install -r requirements.txt
+    ```
 
 3. Create a Virtual Environment
     ```bash
     python -m venv venv
     Windows: venv\Scripts\activate
+    ```
 
 4. Run the project
     ```bash
     python dms.py --checkpoint models/model_split.h5 --webcam 0
-
+    ```
 
 
 
 <p align="center">
-  <img src="img\image_url_1.gif" width="200"/>
-  <img src="img\image_url_2.gif" width="200"/>
+  <img src="img\image_url_1.gif" width="200", height="200"/>
+  <img src="img\image_url_2.gif" width="200", height="200"/>
 </p>
 
 
