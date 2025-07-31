@@ -40,8 +40,8 @@ The Driver Monitoring System (DMS) is designed to enhance road safety by detecti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Affan-04/driver-monitoring-system.git
-   cd driver-monitoring-system
+   git clone https://github.com/affan-jamal/_Cognivue_Driver-monitoring-system.git
+   cd _Cognivue_Driver-monitoring-system
    ```
 
 2. Install the dependencies using:
